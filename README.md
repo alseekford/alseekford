@@ -14,18 +14,6 @@ I am a driven, conscientious, and detail-oriented student with significant leade
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/annelouiseseekford/)
 <br>
 
-### My Toolbox
-
-
-<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" width="50" height="50"/> <img src="https://worldvectorlogo.com/logo/sqlite" width="50" height="50"/>
-
-
-
-
-
-
-
-https://www.gurufocus.com/news/1740593/is-buffetts-snowflake-now-in-value-territory
 
 
 
