@@ -1,4 +1,4 @@
-## Hi there, I'm Anne Louise! 👋
+# Hi there, I'm Anne Louise! 👋
 
 I am a driven, conscientious, and detail-oriented student with significant leadership, communication, and teamwork experience. 
 
