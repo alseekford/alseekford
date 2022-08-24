@@ -17,7 +17,7 @@ I am a driven, conscientious, and detail-oriented student with significant leade
 ### My Toolbox
 
 
-<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://worldvectorlogo.com/logo/sqlite" alt="SQLite Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" width="50" height="50"/> <img src="https://worldvectorlogo.com/logo/sqlite" width="50" height="50"/>
 
 
 
