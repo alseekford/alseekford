@@ -12,7 +12,7 @@ I am a driven, conscientious, and detail-oriented student with significant leade
 
 ## Connect with me!
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/annelouiseseekford/)
-
+<br>
 
 ### My Toolbox
 
