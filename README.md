@@ -9,7 +9,7 @@ I am a driven, conscientious, and detail-oriented student with significant leade
 - 💬 Ask me about an accomplishment I'm most proud of! (Or, anything!)
 
 
-## My Toolbox
+### My Toolbox
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -24,15 +24,10 @@ I am a driven, conscientious, and detail-oriented student with significant leade
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![matplotlib](https://img.shields.io/badge/matplotlib-2F6D92?style=for-the-badge&lColor=white)
 ![seaborn](https://img.shields.io/badge/seaborn-3580AD?style=for-the-badge&lColor=white)
-
-
 <br>
-
 
 ## Connect with me!
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/annelouiseseekford/)
-![GitHub](https://img.shields.io/social/github/followers/:user?label=Follow)
-
 <br>
 
 
