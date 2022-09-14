@@ -1,7 +1,5 @@
 # Hi there, I'm Anne Louise! 👋
 
-I am a driven, conscientious, and detail-oriented student with significant leadership, communication, and teamwork experience. 
-
 - 📚 I'm currently a student at the University of Virginia School of Data Science pursuing a MS in Data Science
 - 👩🏽‍🎓 I'm a proud William & Mary alumni
 - 👩🏽‍💻 I'm a curious girl, avid puzzle solver
