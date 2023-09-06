@@ -1,8 +1,8 @@
 # Hi there, I'm Anne Louise! 👋
 
-- 📚 I'm currently a student at the University of Virginia School of Data Science pursuing a MS in Data Science
-- 👩🏽‍🎓 I'm a proud William & Mary alumni
-- 👩🏽‍💻 I'm a curious girl, avid puzzle solver
+- 👩🏽‍💻 Data Scientist
+- 👩🏽‍🎓 I'm a proud William & Mary and UVA alumni
+- 🧩 I'm a curious girl, avid puzzle solver
 - 👏🏼 I'm an independent thinker, yet thrive in teamwork settings - feel free to reach out to collaborate on a project!
 - 💬 Ask me about an accomplishment I'm most proud of! (Or, anything!)
 
@@ -26,9 +26,6 @@
 
 ## Connect with me!
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/annelouiseseekford/)
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="annelouiseseekford" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/annelouiseseekford?trk=profile-badge">Anne Louise Seekford</a></div>
-              
 
 <br>
 
