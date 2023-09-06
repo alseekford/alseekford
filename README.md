@@ -26,6 +26,10 @@
 
 ## Connect with me!
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/annelouiseseekford/)
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="annelouiseseekford" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/annelouiseseekford?trk=profile-badge">Anne Louise Seekford</a></div>
+              
+
 <br>
 
 
